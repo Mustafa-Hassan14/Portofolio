@@ -1,0 +1,36 @@
+header{
+    background-color: #f0f0f0;
+    width: 100%;
+    position: fixed;
+    display: fixed ;
+    padding: 10px 200px ;
+    align-items: center;
+
+}
+.logo{
+    color: #3a3a3a;
+    font-size: 1.8em;
+    font-weight: 700px ;
+    text-transform: uppercase;
+    text-decoration: none;
+
+}
+.nav{
+    color: #3a3a3a;
+    font: size 1.1em ;
+    font-weight: 500px ;
+    text-decoration: none;
+    padding-left: 30px;
+}
+.nav :hover {
+ color: #3a3a3a; 
+}
+section{
+    background-color: rgb(72, 76, 78); 
+    text-align: center;
+
+}
+ .projectlist{
+ display: flex ;
+ 
+}
